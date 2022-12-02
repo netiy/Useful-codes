@@ -1,0 +1,4 @@
+i = [1, 2, 3, 4, 5, 6, ]
+print("{}{}{}{}{}{}".format(*i))
+
+# https://www.codewars.com/kata/525f50e3b73515a6db000b83/solutions/python
